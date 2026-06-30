@@ -1,4 +1,4 @@
-# 🚀 SpinnerVerse Top-10
+# 🚀 SpinnerVerse
 
 ## ✨ Top 10 Modern CSS Loading Animations
 
