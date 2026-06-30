@@ -27,7 +27,7 @@ Spinner Loader is a premium collection of modern CSS loading animations built us
 
 ---
 
-##🎯 Included Spinners
+## 🎯 Included Spinners
 
 1️⃣ Orbit Spinner
 2️⃣ Dual Ring Spinner
