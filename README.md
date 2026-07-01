@@ -1,4 +1,4 @@
-# ✴️ Spinner loader
+# ✴️ Spinner loaders
 
 Top 10 Modern CSS Loading Animations
 
