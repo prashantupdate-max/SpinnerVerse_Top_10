@@ -20,15 +20,12 @@ Premium collection of modern CSS loading animations built using pure HTML and CS
 
 ## 🌟 Features
 
-- 🎨 Premium Modern UI
-- ⚡ Pure HTML & CSS
-- 📱 Fully Responsive Design
 - 🔥 10 Unique CSS Spinners
+- 📱 Fully Responsive Design
 - 🌈 Gradient Effects
 - 💎 Glassmorphism Cards
 - 🚀 Lightweight & Fast
 - 🧩 Easy To Customize
-- 🖥️ Cross Browser Compatible
 
 ---
 
